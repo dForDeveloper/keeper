@@ -1,0 +1,23 @@
+{
+  "main.css": "/static/css/main.eb589d0e.chunk.css",
+  "main.js": "/static/js/main.d60a898d.chunk.js",
+  "main.js.map": "/static/js/main.d60a898d.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.fdfcfda2.js",
+  "runtime~main.js.map": "/static/js/runtime~main.fdfcfda2.js.map",
+  "static/js/2.befbdd2d.chunk.js": "/static/js/2.befbdd2d.chunk.js",
+  "static/js/2.befbdd2d.chunk.js.map": "/static/js/2.befbdd2d.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.193cdd8d589eb114854f2c97d0b1dbb2.js": "/precache-manifest.193cdd8d589eb114854f2c97d0b1dbb2.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.eb589d0e.chunk.css.map": "/static/css/main.eb589d0e.chunk.css.map",
+  "static/media/main.scss": "/static/media/blank-note-unsplash.b03cc100.jpg",
+  "static/media/checkedicon.svg": "/static/media/checkedicon.c959b724.svg",
+  "static/media/delete.svg": "/static/media/delete.d98e9b10.svg",
+  "static/media/deleteicon.svg": "/static/media/deleteicon.777b93c6.svg",
+  "static/media/edit.svg": "/static/media/edit.5ef43b89.svg",
+  "static/media/googleicon.svg": "/static/media/googleicon.86fcd15e.svg",
+  "static/media/newnoteicon.svg": "/static/media/newnoteicon.0edd6a52.svg",
+  "static/media/notebook.svg": "/static/media/notebook.eadd7bd9.svg",
+  "static/media/paletteicon.svg": "/static/media/paletteicon.beacd3a5.svg",
+  "static/media/uncheckedicon.svg": "/static/media/uncheckedicon.284c00e2.svg"
+}
